@@ -12,7 +12,7 @@ const task4 = `- За допомогою 3х різних prompt() отрима�
   Ім'ям, По-Батькові та роками. та вивести в консоль`;
 
 const styleBoolean = 'color: mediumpurple;';
-const styleHeader = 'border-left: 3px solid red; padding-left: 10px; display: block;';
+const styleHeader = 'border-left: 4px solid green; padding-left: 10px; display: block; white-space: pre-wrap;';
 const styleNone = 'color: none;';
 const styleNumber = 'color: forestgreen;';
 const styleString = 'color: cornflowerblue;';
@@ -59,19 +59,19 @@ document.write('nVar7 = ', htmlNumber + nVar7, htmlEOL);
 document.write('bVar1 = ', htmlBoolean + bVar1, htmlEOL);
 document.write('bVar2 = ', htmlBoolean + bVar2, htmlEOL);
 
-alert('sVar1 = "' + sVar1 + '"');
-alert('sVar2 = "' + sVar1 + '"');
-alert('sVar3 = "' + sVar1 + '"');
-alert('sVar4 = "' + sVar1 + '"');
-alert('nVar1 = ' + nVar1);
-alert('nVar2 = ' + nVar2);
-alert('nVar3 = ' + nVar3);
-alert('nVar4 = ' + nVar4);
-alert('nVar5 = ' + nVar5);
-alert('nVar6 = ' + nVar6);
-alert('nVar7 = ' + nVar7);
-alert('bVar1 = ' + bVar1);
-alert('bVar1 = ' + bVar2);
+// alert('sVar1 = "' + sVar1 + '"');
+// alert('sVar2 = "' + sVar1 + '"');
+// alert('sVar3 = "' + sVar1 + '"');
+// alert('sVar4 = "' + sVar1 + '"');
+// alert('nVar1 = ' + nVar1);
+// alert('nVar2 = ' + nVar2);
+// alert('nVar3 = ' + nVar3);
+// alert('nVar4 = ' + nVar4);
+// alert('nVar5 = ' + nVar5);
+// alert('nVar6 = ' + nVar6);
+// alert('nVar7 = ' + nVar7);
+// alert('bVar1 = ' + bVar1);
+// alert('bVar1 = ' + bVar2);
 
 /* Task 2 ***************************************/
 
